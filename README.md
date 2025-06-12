@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @Raphael-bot-creater
 - 👀 I’m interested in cybersecurity
 - 🌱 I’m currently learning hacking
-  
-- 📫 How to reach me _raphael__raj_(insta)
-- 
+  📫 How to reach me _raphael__raj_(insta)
+- Im still learning so any one can help me
 - ⚡ Fun fact: Im a student 17 yo
 
 <!---
